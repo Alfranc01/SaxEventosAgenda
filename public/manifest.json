@@ -1,0 +1,16 @@
+{
+  "name": "Sax Agenda Pro",
+  "short_name": "SaxAgenda",
+  "description": "Gestión privada de agenda y finanzas para saxofonista",
+  "start_url": "/agenda",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
